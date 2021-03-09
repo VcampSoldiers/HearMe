@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818592409947",
+    "project_id": "hearme-14310",
+    "storage_bucket": "hearme-14310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818592409947:android:d92e83b9ecba3f36a2527e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818592409947-0t7a4onk8g74qe9dpaki9cgbqscudou0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "59bd7a233c69d6cb0569670b49b84917619085f0"
+          }
+        },
+        {
+          "client_id": "818592409947-6vad3so9f95maf3ln5u65i8nqdj1qvvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxByYdf9FIygo8R2IaExAAG95PAhjCh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818592409947-6vad3so9f95maf3ln5u65i8nqdj1qvvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
